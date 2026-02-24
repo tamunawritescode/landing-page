@@ -36,6 +36,12 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+*{
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
